@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oddesy-tech.github.io/aarzoo-x/sitemap.xml
